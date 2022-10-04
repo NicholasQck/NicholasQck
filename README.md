@@ -27,7 +27,7 @@
 <h3 align = "center">👇 Let's get in touch! 👇</h3>
 
 <div align = "center">
-  🟦LinkedIn: https://www.linkedin.com/in/wei-bin-n-b52951113/
+  🟦LinkedIn: www.linkedin.com/in/ngweibin
   <br>
   📧Email: nicholasng7138@gmail.com
 </div>
