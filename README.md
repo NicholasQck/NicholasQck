@@ -13,7 +13,7 @@
   <br>
   - 👯 I’m looking to collaborate on ... Mobile App Development 📱
   <br>
-  - 🤔 I’m looking for help with ... Kubernetes
+  - 🤔 I’m looking for help with ... Java Spring Boot
   <br>
   - 💬 Ask me about ... JavaScript
   <br>
