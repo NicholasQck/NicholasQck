@@ -7,15 +7,15 @@
 
 
 <div align = "center">
-  - 🔭 I’m currently working on ... Buildiing an e-commerce website 🌐
+  - 🔭 I’m currently working on ... Buildiing a web application 🌐
   <br>
-  - 🌱 I’m currently learning ... Flutter
+  - 🌱 I’m currently learning ... ReactJS and NodeJS
   <br>
   - 👯 I’m looking to collaborate on ... Mobile App Development 📱
   <br>
-  - 🤔 I’m looking for help with ... Node.js
+  - 🤔 I’m looking for help with ... Kubernetes
   <br>
-  - 💬 Ask me about ... Java
+  - 💬 Ask me about ... JavaScript
   <br>
   - 😄 Pronouns: ... He / Him
   <br>
